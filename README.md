@@ -5,7 +5,7 @@
 📩 Email Me  for Collaboration, Research, or Projects.
 
 - 🔭 **I’m currently working on:** Data Science projects & scalability-focused systems  
-- 🌱 **I’m currently learning:** Advanced Machine Learning, ANN, Optimization Techniques  
+- 🌱 **I’m currently learning:** Scalability in Data Science, Advanced Machine Learning, ANN, Optimization Techniques  
 
 - ☁️ **AWS Knowledge (Cloud Practitioner Level):**  
   ☁️ **AWS & Cloud Computing Skills:**  
