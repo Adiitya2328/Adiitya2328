@@ -8,14 +8,17 @@
 - 🌱 **I’m currently learning:** Advanced Machine Learning, ANN, Optimization Techniques  
 
 - ☁️ **AWS Knowledge (Cloud Practitioner Level):**  
-  Cloud fundamentals, EC2, S3, IAM, VPC, Shared Responsibility Model, Pricing & Billing  
+  ☁️ **AWS & Cloud Computing Skills:**  
+Strong foundation in Cloud Computing concepts and AWS core services including EC2, EBS, S3, Glacier, Lambda, VPC, Route 53, API Gateway, IAM, ACM, KMS, RDS, DynamoDB, Redshift, ELB, Auto Scaling, CloudWatch, CloudTrail, SQS, SNS, SES, Step Functions, and AWS Cost Management tools.
+
 
 - 🗄️ **Database Skills:**  
  MongoDB (NoSQL), MySQL (RDBMS), Database Design, CRUD Operations, Basic Query optimization,  
   Data Mining concepts, Data Warehousing basics, ETL fundamentals   
 
 - 💻 **Programming:**  
-  Java and c++(for DSA & Competitive Programming), Problem Solving Skills  
+  Java and c++(for DSA & Competitive Programming), Problem Solving Skills
+  Python for ML Skills
 
 
 
