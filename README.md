@@ -13,7 +13,7 @@ Strong foundation in Cloud Computing concepts and AWS core services including EC
 
 
 - 🗄️ **Database Skills:**  
- MongoDB (NoSQL), MySQL (RDBMS), Database Design, CRUD Operations, Basic Query optimization,  
+ MongoDB (NoSQL), MySQL (RDBMS), CRUD Operations, Basic Query optimization,  
   Data Mining concepts, Data Warehousing basics, ETL fundamentals   
 
 - 💻 **Programming:**  
