@@ -9,7 +9,7 @@
 
 - ☁️ **AWS Knowledge (Cloud Practitioner Level):**  
   ☁️ **AWS & Cloud Computing Skills:**  
-Strong foundation in Cloud Computing concepts and AWS core services including EC2, EBS, S3, Glacier, Lambda, VPC, Route 53, API Gateway, IAM, ACM, KMS, RDS, DynamoDB, Redshift, ELB, Auto Scaling, CloudWatch, CloudTrail, SQS, SNS, SES, Step Functions, and AWS Cost Management tools.
+Strong foundation in Cloud Computing concepts and AWS core services including EC2, EBS, S3, Glacier, Lambda, VPC, Route 53, API Gateway, IAM, ACM, KMS, RDS, DynamoDB, Redshift, ELB, Auto Scaling, CloudWatch, CloudTrail, SQS, SNS, SES and AWS Cost Management tools.
 
 
 - 🗄️ **Database Skills:**  
